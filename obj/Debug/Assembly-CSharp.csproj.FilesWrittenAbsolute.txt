@@ -1,0 +1,17 @@
+/home/loganriggs/Unity/light/Temp/bin/Debug/UnityEngine.dll
+/home/loganriggs/Unity/light/Temp/bin/Debug/UnityEditor.dll
+/home/loganriggs/Unity/light/Temp/bin/Debug/UnityEngine.UI.dll
+/home/loganriggs/Unity/light/Temp/bin/Debug/UnityEngine.Networking.dll
+/home/loganriggs/Unity/light/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/home/loganriggs/Unity/light/Temp/bin/Debug/UnityEngine.Analytics.dll
+/home/loganriggs/Unity/light/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/home/loganriggs/Unity/light/Temp/bin/Debug/UnityEngine.VR.dll
+/home/loganriggs/Unity/light/Temp/bin/Debug/Unity.DataContract.dll
+/home/loganriggs/Unity/light/Temp/bin/Debug/Mono.Cecil.dll
+/home/loganriggs/Unity/light/Temp/bin/Debug/Unity.SerializationLogic.dll
+/home/loganriggs/Unity/light/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/home/loganriggs/Unity/light/Temp/bin/Debug/Unity.UNetWeaver.dll
+/home/loganriggs/Unity/light/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/home/loganriggs/Unity/light/Temp/bin/Debug/Unity.CecilTools.dll
+/home/loganriggs/Unity/light/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/home/loganriggs/Unity/light/Temp/bin/Debug/Mono.Cecil.Mdb.dll

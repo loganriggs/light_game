@@ -1,0 +1,38 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/mirrorScript.cs">
+    <Files>
+      <File FileName="Assets/scripts/followPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/playerController.cs" Line="43" Column="52" />
+      <File FileName="Assets/scripts/checkpoint.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/glowAffect.cs" Line="1" Column="1" />
+      <File FileName="Assets/resetPlayerAndChildren.cs" Line="1" Column="1" />
+      <File FileName="Assets/chasePlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/enemySeeScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/activateEnemies.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/echoScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/enemyLightSwitch.cs" Line="1" Column="1" />
+      <File FileName="Assets/turnOnLight.cs" Line="1" Column="1" />
+      <File FileName="Assets/enemyMoveForward.cs" Line="1" Column="1" />
+      <File FileName="Assets/enemyStartMarching.cs" Line="1" Column="1" />
+      <File FileName="Assets/glowAffectGrass.cs" Line="1" Column="1" />
+      <File FileName="Assets/meshCombiner.cs" Line="1" Column="1" />
+      <File FileName="Assets/globMonster.cs" Line="1" Column="1" />
+      <File FileName="Assets/globRotate.cs" Line="1" Column="1" />
+      <File FileName="Assets/glowTree.cs" Line="1" Column="1" />
+      <File FileName="Assets/echoTree.cs" Line="1" Column="1" />
+      <File FileName="Assets/Editor/levelBuilder.cs" Line="1" Column="1" />
+      <File FileName="Assets/glowAffectRed.cs" Line="1" Column="1" />
+      <File FileName="Assets/glassBreak.cs" Line="1" Column="1" />
+      <File FileName="Assets/GlassBlock.cs" Line="37" Column="3" />
+      <File FileName="Assets/amplifierScript.cs" Line="14" Column="1" />
+      <File FileName="Assets/brokenGlass.cs" Line="1" Column="1" />
+      <File FileName="Assets/mirrorScript.cs" Line="7" Column="2" />
+      <File FileName="Assets/MirrorRotate.cs" Line="8" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
