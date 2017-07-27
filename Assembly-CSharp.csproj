@@ -105,6 +105,8 @@
      <Compile Include="Assets\enemyLightSwitch.cs" />
      <Compile Include="Assets\enemyMoveForward.cs" />
      <Compile Include="Assets\enemyStartMarching.cs" />
+     <Compile Include="Assets\ghostBalls.cs" />
+     <Compile Include="Assets\ghostEnemy.cs" />
      <Compile Include="Assets\glassBreak.cs" />
      <Compile Include="Assets\globMonster.cs" />
      <Compile Include="Assets\globRotate.cs" />

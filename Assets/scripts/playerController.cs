@@ -24,7 +24,6 @@ public class playerController : MonoBehaviour {
 		float moveUp = Input.GetAxis ("Vertical");
 		float moveRight = Input.GetAxis ("Horizontal");
 		rb.velocity = new Vector3 (moveRight*speed, rb.velocity.y, moveUp*speed);
-		Debug.Log (rb.velocity);
 		//rotation
 		if (moveUp > 0) {
 			transform.rotation = Quaternion.Euler (0, 0, 0);
